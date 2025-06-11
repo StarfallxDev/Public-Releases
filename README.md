@@ -31,13 +31,6 @@ Each release contains multiple binaries and support files for various purposes. 
 - Sharing, uploading to other platforms, or repackaging the software violates our terms
 - Violations may result in legal action
 
-## Installation Instructions
-
-1. Download the desired binary files from the release section
-2. Extract all contents to a secure location on your Windows system
-3. Run the desired executable file(s)
-4. Follow any on-screen instructions for setup or configuration
-5. 
 ## Reporting Issues
 
 Please report any bugs or feature requests via the Issues tab with:

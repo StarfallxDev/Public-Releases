@@ -37,14 +37,7 @@ Each release contains multiple binaries and support files for various purposes. 
 2. Extract all contents to a secure location on your Windows system
 3. Run the desired executable file(s)
 4. Follow any on-screen instructions for setup or configuration
-
-## Version Numbering
-
-We use semantic versioning (X.Y.Z):
-- X: Major version (breaking changes)
-- Y: Minor version (new features)
-- Z: Patch (bug fixes)
-
+5. 
 ## Reporting Issues
 
 Please report any bugs or feature requests via the Issues tab with:
